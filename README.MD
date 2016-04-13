@@ -1,1 +1,4 @@
-使用Android的RecyclerView和SwipeRefreshLayout来实现下拉刷新和上拉加载更多功能。
+1、使用Android的RecyclerView和SwipeRefreshLayout来实现下拉刷新和上拉加载更多功能。(已完成)
+2、写一个baseAdapter,适用于所有的Adapter,并且可以添加HeadView和FootView。
+有每个item中对应的view的点击事件。
+3、写一个通用的下拉刷新和上拉加载更多的Activity类和Fragment类。
